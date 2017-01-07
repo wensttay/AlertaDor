@@ -1,5 +1,5 @@
 # AlertaDor
-Um programa Web desenvolvido para a cadeira de Banco de Dados Não Relacionais, na intenção de avaliar o aprendizado adquirido na cadeira sobre as novas tecnologias estudadas, tais como: Google Maps API e Postgis.
+Um programa Web desenvolvido para a cadeira de BDNC (Banco de Dados Não Convencionais), na intenção de avaliar o aprendizado adquirido na cadeira sobre as novas tecnologias estudadas, tais como: Google Maps API e Postgis.
 
 # Tecnologias utilizadas
 - Java
