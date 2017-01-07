@@ -1,17 +1,17 @@
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/controll/GetAllMarksControll.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/entity/User.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/controll/RegisterControll.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/enums/DenunciationType.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/enums/SquealerType.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/controll/LoginControll.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/dao/UserDao.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/dao/GenericBdDao.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/controll/DenunciationControll.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/controll/ZPointExclusionStrategy.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/NovoClass.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/controll/LogoutControll.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/dao/DenunciationDao.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/entity/Denunciation.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/dao/bddao/DenunciationBdDao.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/dao/GenericDao.java
-/home/wensttay/Documentos/GitHub/AlertaDor/src/main/java/br/edu/ifpb/bdnc/alertador/dao/bddao/UserBdDao.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/controll/LogoutControll.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/dao/bddao/DenunciationBdDao.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/controll/DenunciationControll.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/dao/GenericBdDao.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/NovoClass.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/dao/bddao/UserBdDao.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/enums/DenunciationType.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/dao/UserDao.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/dao/DenunciationDao.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/controll/GetAllMarksControll.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/enums/SquealerType.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/controll/RegisterControll.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/entity/User.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/controll/LoginControll.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/entity/Denunciation.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/controll/ZPointExclusionStrategy.java
+/home/wensttay/Documentos/DevWorkspace/Github Projects/AlertaDor/src/main/java/br/edu/ifpb/ads/bdnc/alertador/dao/GenericDao.java

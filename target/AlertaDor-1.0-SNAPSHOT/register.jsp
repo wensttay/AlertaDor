@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
     Created on : 26/07/2016, 00:42:14
-    Author     : wensttay
+    Author     : Wensttay de Sousa Alencar
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -11,6 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <meta name="Author" content="Wensttay de Sousa Alencar">
     </head>
     <body>
         <div class="container">

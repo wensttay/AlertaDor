@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 26/07/2016, 02:37:25
-    Author     : wensttay
+    Author     : Wensttay de Sousa Alencar
 --%>
 
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
@@ -15,6 +15,8 @@
         <meta name="viewport" content="initial-scale=1.0">
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <meta name="Author" content="Wensttay de Sousa Alencar">
+        
         <style>
             html, body {
                 height: 100%;
